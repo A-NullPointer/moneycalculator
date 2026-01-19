@@ -605,9 +605,5 @@ void shouldLoadCurrenciesFromApi() {
 
 ## Autor
 
-Proyecto desarrollado como práctica de la asignatura Ingeniería del Software 2.  
+Proyecto desarrollado por Asmae Ez zaim Driouch como práctica de la asignatura Ingeniería del Software 2.  
 Universidad de Las Palmas de Gran Canaria (ULPGC).
-
-## Licencia
-
-Este proyecto es de código abierto para fines educativos.
